@@ -1,3 +1,5 @@
+
+(Attach screenshot of terminal after running setup_server.sh)
 ## Day 4: Infrastructure Automation (IaC)
 
 ### 🔹 Difference between .sh and .yaml
@@ -18,7 +20,9 @@
 
 ### 🔹 Screenshot
 
-(Attach screenshot of terminal after running setup_server.sh)
+![Run Output](screenshot1.png)
+
+![Folder Structure](screenshot2.png)
 
 ---
 
